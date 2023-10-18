@@ -5,6 +5,7 @@ div#entries, #form {
 
 .card {
 	margin-bottom: 2em;
+	background-color: darkslategray;
 }
 
 .card-title {
@@ -21,4 +22,13 @@ blockquote {
 
 form#form {
 	padding: 0 1.25em;
+}
+
+.gb-form {
+	background-color: darkslategray;
+}
+
+body {
+	background-color: black;
+	color: ghostwhite;
 }
